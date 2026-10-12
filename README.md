@@ -1,7 +1,11 @@
 # Student Complaints Portal: Backend
 
 Spring Boot 3 (Java 17) REST API with Spring Data JPA and MySQL.
-Frontend repository: the separate React app that calls this API.
+
+## Links
+- Frontend repository: https://github.com/riteesh186-del/student-complaints-frontend
+- Live website: https://student-complaints-frontend.onrender.com
+- Live API: https://student-complaints-portal.onrender.com/api/complaints (the free host sleeps when idle, so the first request can take up to a minute)
 
 ## Endpoints
 | Method | Path | Access |
